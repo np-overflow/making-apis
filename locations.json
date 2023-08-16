@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "1692165695008",
+  "locations": [
+    {
+      "id": 1,
+      "name": "Food Club",
+      "totalCapacity": 50,
+      "currentCapacity": 20
+    },
+    {
+      "id": 2,
+      "name": "Makan Place",
+      "totalCapacity": 75,
+      "currentCapacity": 50
+    },
+    {
+      "id": 3,
+      "name": "Munch",
+      "totalCapacity": 30,
+      "currentCapacity": 20
+    }
+  ]
+}
