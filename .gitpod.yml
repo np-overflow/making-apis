@@ -4,10 +4,12 @@
 
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
+vscode:
+  extensions:
+    - "esbenp.prettier-vscode"
+
 tasks:
   - name: Prepare workspace
     before: pnpm i -g nodemon
     init: pnpm install
-
-  - name: Start Express server
     command: pnpm start
